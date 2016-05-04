@@ -38,6 +38,12 @@ If you find bugs, have feature requests or questions, please
 [file an issue](https://github.com/indieweb/branding/issues).
 
 
+## Code of Conduct
+
+Everyone interacting in the Indie Web Camp branding's codebases and issue trackers is expected to follow the
+[Indie Web Camp branding's code of conduct](https://github.com/indieweb/branding/blob/master/CODE_OF_CONDUCT.md).
+
+
 ## License
 
 **PUBLIC DOMAIN**
