@@ -6,13 +6,13 @@ Logos, stickers, shirts, etc.
 
 | Color Name / Usage        | Hex Color | RGB Color        |
 | ------------------------- | --------- | ---------------- |
-| Black                     | #000000   | rbb(0,0,0)       |
-| White                     | #FFFFFF   | rbb(255,255,255) |
-| Light Grey (Indie & Camp) | #666666   | rbb(102,102,102) |
-| Dar Grey (Web)            | #444444   | rbb(68,68,68)    |
-| Red (I)                   | #FF0000   | rbb(255,0,0)     |
-| Orange (W)                | #FF5C01   | rbb(255,92,1)    |
-| Yellow (C)                | #FFB100   | rbb(255,177,0)   |
+| Black                     | #000000   | rgb(0,0,0)       |
+| White                     | #FFFFFF   | rgb(255,255,255) |
+| Light Grey (Indie & Camp) | #666666   | rgb(102,102,102) |
+| Dar Grey (Web)            | #444444   | rgb(68,68,68)    |
+| Red (I)                   | #FF0000   | rgb(255,0,0)     |
+| Orange (W)                | #FF5C01   | rgb(255,92,1)    |
+| Yellow (C)                | #FFB100   | rgb(255,177,0)   |
 
 
 ## Authors
