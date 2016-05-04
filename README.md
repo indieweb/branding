@@ -4,15 +4,15 @@ Logos, stickers, shirts, etc.
 
 ## Colors
 
-| Color Name / Usage        | Hex Color |
-| ------------------------- | --------- |
-| Black                     | #000000   |
-| White                     | #FFFFFF   |
-| Light Grey (Indie & Camp) | #666666   |
-| Dar Grey (Web)            | #444444   |
-| Red (I)                   | #444444   |
-| Orange (W)                | #FF5C01   |
-| Yellow (C)                | #FFB100   |
+| Color Name / Usage        | Hex Color | RGB Color        |
+| ------------------------- | --------- | ---------------- |
+| Black                     | #000000   | rbb(0,0,0)       |
+| White                     | #FFFFFF   | rbb(255,255,255) |
+| Light Grey (Indie & Camp) | #666666   | rbb(102,102,102) |
+| Dar Grey (Web)            | #444444   | rbb(68,68,68)    |
+| Red (I)                   | #FF0000   | rbb(255,0,0)     |
+| Orange (W)                | #FF5C01   | rbb(255,92,1)    |
+| Yellow (C)                | #FFB100   | rbb(255,177,0)   |
 
 
 ## Authors
