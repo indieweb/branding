@@ -2,7 +2,8 @@
 
 Logos, stickers, shirts, etc.
 
-## Colors
+## Usage
+### Colors
 
 | Color Name / Usage        | Hex     | RGB              | CMYK              |
 | ------------------------- | ------- | ---------------- | ----------------- |
@@ -13,6 +14,31 @@ Logos, stickers, shirts, etc.
 | Red (I)                   | #FF0000 | rgb(255,0,0)     | (0,1,1,0)         |
 | Orange (W)                | #FF5C01 | rgb(255,92,1)    | (0,0.639,0.996,0) |
 | Yellow (C)                | #FFB100 | rgb(255,177,0)   | (0,0.306,1,0)     |
+
+
+### Backgrounds
+
+- Use the Indie Web Camp logos on a solid background.
+- Avoid using the Indie Web Camp logos on a textured or patterned background.
+- If the background is dark, use the white Indie Web Camp logos.
+- If the background is light, use the black Indie Web Camp logos.
+- When possible, use the full color Indie Web Camp logos.
+
+
+### Sizing
+
+- When possible, use one of the vector versions of the Indie Web Camp logos logo for lossless resizing.
+- If resizing makes the logotype ("Indie Web Camp" text) unreadable, use the logomark only version.
+- Don't embiggen any of the PNGs.
+- If you need a bigger PNG, embiggen a vector version then export it to PNG. (Or file an issue in this repo.)
+
+
+### Spacing
+
+- The Indie Web Camp logos must always have a margin around them.
+- The margin is X.
+- X is the height of the dot on the I in the IWC logomark.
+- All of the Indie Web Camp logo files have this spacing built in, so you shouldn't need to calculate it.
 
 
 ## Authors
