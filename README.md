@@ -46,8 +46,6 @@ Logos, stickers, shirts, etc.
 * Crystal Beasley / [@skinny97214](https://github.com/skinny97214)
 * Shane Becker / [@veganstraightedge](https://github.com/veganstraightedge)
 
-https://www.fontspring.com/fonts/ahmet-altun/halis-grotesque
-
 
 ## Dev Setup
 
