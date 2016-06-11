@@ -10,7 +10,7 @@ Logos, stickers, shirts, etc.
 | Black                     | #000000 | rgb(0,0,0)       | (0,0,0,1)         |
 | White                     | #FFFFFF | rgb(255,255,255) | (0,0,0,0)         |
 | Light Grey (Indie & Camp) | #666666 | rgb(102,102,102) | (0,0,0,0.6)       |
-| Dar Grey (Web)            | #444444 | rgb(68,68,68)    | (0,0,0,0.733)     |
+| Dark Grey (Web)            | #444444 | rgb(68,68,68)    | (0,0,0,0.733)     |
 | Red (I)                   | #FF0000 | rgb(255,0,0)     | (0,1,1,0)         |
 | Orange (W)                | #FF5C01 | rgb(255,92,1)    | (0,0.639,0.996,0) |
 | Yellow (C)                | #FFB100 | rgb(255,177,0)   | (0,0.306,1,0)     |
