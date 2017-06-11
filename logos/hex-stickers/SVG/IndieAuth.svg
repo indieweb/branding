@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="373px" height="432px" viewBox="0 0 373 432" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>IndieAuth</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="186.131225 0 372.262449 107.963905 372.262449 323.891716 186.131225 431.855621 1.3500312e-13 323.891716 1.77635684e-14 107.963905"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IndieAuth">
+            <g id="Combined-Shape">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#5FA328" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)" fill="#FFFFFF">
+                    <g transform="translate(113.000000, 219.000000)">
+                        <path d="M42.7421939,109.571084 C25.2637705,99.2915572 13.5556322,80.456086 13.5556322,58.9227642 C13.5556322,26.3806201 40.2954295,-9.9475983e-14 73.280641,-9.9475983e-14 C106.265853,-9.9475983e-14 133.00565,26.3806201 133.00565,58.9227642 C133.00565,80.456086 121.297512,99.2915572 103.819088,109.571084 L145.869498,223 L0.691784197,223 L42.7421939,109.571084 Z"></path>
+                    </g>
+                </g>
+            </g>
+            <text font-family="Futura-Medium, Futura" font-size="48" font-weight="400" letter-spacing="-1.62162161" fill="#FFFFFF">
+                <tspan x="89.3793285" y="173">IndieAuth</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

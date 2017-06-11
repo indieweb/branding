@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="383px" height="444px" viewBox="0 0 383 444" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>POSSE</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="186.131225 0 372.262449 107.963905 372.262449 323.891716 186.131225 431.855621 1.88293825e-13 323.891716 7.10542736e-14 107.963905"></polygon>
+        <polygon id="path-3" points="186.131225 0 372.262449 107.963905 372.262449 323.891716 186.131225 431.855621 1.88293825e-13 323.891716 7.10542736e-14 107.963905"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="POSSE" transform="translate(5.000000, 6.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFB100" xlink:href="#path-1"></use>
+            <circle id="Oval-2" fill="#FFFFFF" mask="url(#mask-2)" cx="187" cy="0" r="50"></circle>
+            <circle id="Oval-2-Copy-3" fill="#FFFFFF" mask="url(#mask-2)" cx="187" cy="432" r="50"></circle>
+            <circle id="Oval-2-Copy" fill="#FFFFFF" mask="url(#mask-2)" cx="372" cy="111" r="50"></circle>
+            <circle id="Oval-2-Copy-4" fill="#FFFFFF" mask="url(#mask-2)" cx="0" cy="111" r="50"></circle>
+            <circle id="Oval-2-Copy-2" fill="#FFFFFF" mask="url(#mask-2)" cx="373" cy="324" r="50"></circle>
+            <circle id="Oval-2-Copy-5" fill="#FFFFFF" mask="url(#mask-2)" cx="1" cy="324" r="50"></circle>
+            <circle id="Oval-2-Copy-6" fill="#FFFFFF" mask="url(#mask-2)" cx="71" cy="224" r="40"></circle>
+            <path d="M185.5,0.5 L67.9986155,224.83597" id="Line" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <path d="M371.5,108.5 L68.9986155,225.833698" id="Line" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <path d="M67.9986155,225.833698 L371.5,323.5" id="Line" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <path d="M67.9986155,225.833698 L185.5,431" id="Line" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <path d="M67.9986155,226.833698 L0.5,323.5" id="Line" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <path d="M67.9986155,225.833698 L0.5,108.5" id="Line" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <text mask="url(#mask-2)" font-family="Futura-Medium, Futura" font-size="48" font-weight="400" letter-spacing="-1.62162161" fill="#FFFFFF">
+                <tspan x="190.093117" y="240">POSSE</tspan>
+            </text>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Mask" stroke="#FFB100" stroke-width="10" stroke-linecap="square" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

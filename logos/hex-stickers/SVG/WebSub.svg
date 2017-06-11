@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="373px" height="432px" viewBox="0 0 373 432" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>WebSub</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WebSub">
+            <polygon id="WebSub-Copy" fill="#3376C7" points="186.131225 0 372.262449 107.963905 372.262449 323.891716 186.131225 431.855621 1.84741111e-13 323.891716 6.75015599e-14 107.963905"></polygon>
+            <text font-family="Futura-Medium, Futura" font-size="48" font-weight="400" letter-spacing="-1.62162161" fill="#FFFFFF">
+                <tspan x="99.1773648" y="286.74323">WebSub</tspan>
+            </text>
+            <polygon id="Path-2" fill="#FFFFFF" points="266.495254 355.418751 187.322684 308.486459 108.064141 355.002679 187.239895 400.586982"></polygon>
+            <g id="Group-2" transform="translate(20.000000, 52.000000)" fill="#FFFFFF">
+                <rect id="Rectangle" transform="translate(165.500000, 163.500000) scale(1, -1) translate(-165.500000, -163.500000) " x="0" y="152" width="331" height="23"></rect>
+                <rect id="Rectangle-2" x="0" y="114" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-9" x="0" y="76" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy" x="38" y="114" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-2" x="76" y="114" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-11" x="76" y="76" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-3" x="114" y="114" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-12" x="114" y="76" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-4" x="152" y="114" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-13" x="152" y="76" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-5" x="190" y="114" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-14" x="190" y="76" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-6" x="228" y="114" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-15" x="228" y="76" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-7" x="266" y="114" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-16" x="266" y="76" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-8" x="304" y="114" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-24" x="76" y="38" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-22" x="152" y="38" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-29" x="152" y="0" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-21" x="190" y="38" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-30" x="190" y="0" width="27" height="27"></rect>
+                <rect id="Rectangle-2-Copy-19" x="266" y="38" width="27" height="27"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

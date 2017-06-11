@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="373px" height="432px" viewBox="0 0 373 432" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>microformats</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="186.131225 0 372.262449 107.963905 372.262449 323.891716 186.131225 431.855621 1.3500312e-13 323.891716 1.77635684e-14 107.963905"></polygon>
+        <linearGradient x1="0%" y1="49.9998081%" x2="100.000306%" y2="49.9998081%" id="linearGradient-3">
+            <stop stop-color="#6BA140" offset="0%"></stop>
+            <stop stop-color="#77AE40" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="94.201308%" y1="94.4559247%" x2="5.79955127%" y2="5.54484348%" id="linearGradient-4">
+            <stop stop-color="#78B143" offset="0%"></stop>
+            <stop stop-color="#92C73C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="94.098712%" y1="94.5607219%" x2="5.90100785%" y2="5.43977353%" id="linearGradient-5">
+            <stop stop-color="#94C63A" offset="0%"></stop>
+            <stop stop-color="#BCD531" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="microformats">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+            <g id="microformats-logo" mask="url(#mask-2)">
+                <g transform="translate(74.000000, 106.000000)">
+                    <g id="g1307" transform="translate(0.000000, 36.925212)">
+                        <path d="M0,36.7231683 C0,15.6897315 15.3938283,0.264746802 36.3962066,0.264746802 L146.311214,0.264746802 C167.312894,0.264746802 182.706722,15.6897315 182.706722,36.7231683 L182.706722,145.38083 C182.706722,166.41357 167.312894,181.839251 146.311214,181.839251 L36.3962066,181.839251 C15.3938283,181.839251 0,166.41357 0,145.38083 L0,36.7231683 Z" id="path1314" stroke="#FFFFFF" stroke-width="16" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                    </g>
+                    <g id="g1316" transform="translate(61.463561, 9.057127)">
+                        <path d="M0.41208524,29.5610706 C0.41208524,12.7496486 12.73972,0.424988288 29.5583854,0.424988288 L117.576999,0.424988288 C134.395664,0.424988288 146.723299,12.7496486 146.723299,29.5610706 L146.723299,116.398022 C146.723299,133.209444 134.395664,145.534104 117.576999,145.534104 L29.5583854,145.534104 C12.73972,145.534104 0.41208524,133.209444 0.41208524,116.398022 L0.41208524,29.5610706 Z" id="path1323" stroke="#FFFFFF" stroke-width="16" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                    </g>
+                    <g id="g1325" transform="translate(124.324022, 0.000000)">
+                        <g id="g1327" stroke="#FFFFFF" stroke-width="16" fill="url(#linearGradient-5)" fill-rule="nonzero">
+                            <path d="M0.154357353,19.7654389 C0.154357353,8.36042533 8.55600711,0 20.0175644,0 L80.0143816,0 C91.4766373,0 99.8782871,8.36042533 99.8782871,19.7654389 L99.8782871,78.6785694 C99.8782871,90.083583 91.4766373,98.4440083 80.01508,98.4440083 L20.0182628,98.4440083 C8.55670556,98.4440083 0.155055802,90.083583 0.155055802,78.6785694 L0.155055802,19.7654389 L0.154357353,19.7654389 Z" id="path1334"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <text id="Microformats" mask="url(#mask-2)" transform="translate(271.384918, 347.338457) rotate(-30.000000) translate(-271.384918, -347.338457) " font-family="Futura-Medium, Futura" font-size="28" font-weight="400" letter-spacing="-0.945945978" fill="#FFFFFF">
+                <tspan x="192.746141" y="358.338457">Microformats</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

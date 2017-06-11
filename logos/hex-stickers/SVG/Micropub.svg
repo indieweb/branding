@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="373px" height="432px" viewBox="0 0 373 432" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Micropub</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Micropub">
+            <polygon id="Polygon-Copy-4" fill="#4B2153" points="186.131225 0 372.262449 107.963905 372.262449 323.891716 186.131225 431.855621 1.3500312e-13 323.891716 1.77635684e-14 107.963905"></polygon>
+            <polygon id="Path-3" stroke="#979797" fill="#FFFFFF" points="209.074123 310.80377 186.074123 310.80377 163.074123 310.80377 186.074123 51.1796875"></polygon>
+            <polygon id="Path-3-Copy-4" stroke="#979797" fill="#FFFFFF" points="143.156653 311.120112 36 311.120112 173.156653 74.8067094"></polygon>
+            <polygon id="Path-3-Copy-5" stroke="#979797" fill="#FFFFFF" points="336.156653 311.120112 229 311.120112 199 74.8067094"></polygon>
+            <text font-family="Futura-Medium, Futura" font-size="36" font-weight="400" letter-spacing="-1.21621633" fill="#FFFFFF">
+                <tspan x="112.710568" y="354">Micropub</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
